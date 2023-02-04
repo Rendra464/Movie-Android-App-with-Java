@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rendr/AndroidStudioProjects/SvaraTest/app/src/main/res/drawable/rounded.xml" value="0.188" />
+        <entry key="..\:/Users/rendr/AndroidStudioProjects/SvaraTest/app/src/main/res/drawable/shadow.xml" value="0.188" />
+        <entry key="..\:/Users/rendr/AndroidStudioProjects/SvaraTest/app/src/main/res/drawable/test.xml" value="0.188" />
+        <entry key="..\:/Users/rendr/AndroidStudioProjects/SvaraTest/app/src/main/res/layout/activity_detail_movie.xml" value="0.264" />
+        <entry key="..\:/Users/rendr/AndroidStudioProjects/SvaraTest/app/src/main/res/layout/activity_listitem.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/rendr/AndroidStudioProjects/SvaraTest/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/rendr/AndroidStudioProjects/SvaraTest/app/src/main/res/layout/activity_movie_list.xml" value="0.25" />
+        <entry key="..\:/Users/rendr/AndroidStudioProjects/SvaraTest/app/src/main/res/layout/activity_setting.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/rendr/AndroidStudioProjects/SvaraTest/app/src/main/res/layout/fragment_favorite.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/rendr/AndroidStudioProjects/SvaraTest/app/src/main/res/layout/fragment_favorite_film.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/rendr/AndroidStudioProjects/SvaraTest/app/src/main/res/layout/fragment_film.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/rendr/AndroidStudioProjects/SvaraTest/app/src/main/res/layout/item.xml" value="0.1671195652173913" />
+        <entry key="..\:/Users/rendr/AndroidStudioProjects/SvaraTest/app/src/main/res/layout/item_list.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/rendr/AndroidStudioProjects/SvaraTest/app/src/main/res/layout/toolbar.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/rendr/AndroidStudioProjects/SvaraTest/app/src/main/res/menu/bottom_navmenu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
